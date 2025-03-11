@@ -1,5 +1,3 @@
-# Indian-Food-Insights---Exploratory-Data-Analysis-EDA
-
 # Indian Food Insights - Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
